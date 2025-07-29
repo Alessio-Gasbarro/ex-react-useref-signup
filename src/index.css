@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightslategray;
+}
+
+.form-test {
+  margin: 20px;
+  font-size: 30px;
+}
+
+input {
+  height: 40px;
+  width: 300px;
+}
